@@ -9,7 +9,7 @@ using namespace std;
 
 //Función para calcular la moda
 
-void mode(float new_array[], int num)
+void mode(vector<float> new_array, int num)
 {
     int* ipRepetition = new int[num];
 
