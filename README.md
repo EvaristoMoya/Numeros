@@ -78,7 +78,7 @@ int main()
         else
             cout << "La mediana es " << arregloNumeros[numeroLineas/2] << endl << endl;
 
-        //mode(arregloNumeros,numeroLineas);
+        mode(arregloNumeros,numeroLineas);
 
         for(int i=0;i<numeroLineas;i++)
         {
